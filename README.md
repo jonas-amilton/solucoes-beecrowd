@@ -1,12 +1,9 @@
-# Titulo
 <h1 align="center"> Soluções do Beecrowd </h1>
 
-## Descrição do Projeto
 <p align="justify">Fiz esse repositório para publicar as soluções do Beecrowd
 <br>
 </p>
 
-## Links úteis
 <p align="justify">
 <h2>Lista de métodos úteis para as soluções: </h2>
 <br>
