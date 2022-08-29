@@ -1,7 +1,8 @@
 <h1 align="center"> Soluções do Beecrowd </h1>
 
-<p align="center">Fiz esse repositório para publicar as soluções do Beecrowd
+<p align="center">Fiz esse repositório para publicar as soluções do Beecrowd <br>
 <h2>Lista de métodos úteis para as soluções: </h2>
+<br>
 </p>
 
 <h3>
