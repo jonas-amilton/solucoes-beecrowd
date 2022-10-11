@@ -14,7 +14,8 @@
 <br><br>
 
 <a href="https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/">Como manipular arrays em JavaScript</a>
-</h3>
+</h3><br>
+
 </p>
 
 <p align="center">
