@@ -1,15 +1,13 @@
-#Soluções do Beecrowd - Fiz esse repositório para publicar as soluções do Beecrowd
+# Soluções do Beecrowd - Fiz esse repositório para publicar as soluções do Beecrowd
 
-##Lista de métodos úteis para as soluções:
+## Lista de métodos úteis para as soluções:
 
 
-###16 Métodos de array JavaScript que todo bom Desenvolvedor Web deve saber
-<br>
-<a href="https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html">Link 1</a>
+### 16 Métodos de array JavaScript que todo bom Desenvolvedor Web deve saber
+### "https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html"
 
-###Como manipular arrays em JavaScript
-<br>
-<a href="https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/">Link 2</a>
+### Como manipular arrays em JavaScript
+### "https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/"
 
 <br>
 
