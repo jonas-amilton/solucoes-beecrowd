@@ -1,4 +1,5 @@
 # Soluções do Beecrowd - Fiz esse repositório para publicar as soluções do Beecrowd
+## Alguns exercicios tem mais de uma solução encontrada
 
 ## Lista de métodos úteis para as soluções:
 
