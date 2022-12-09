@@ -1,13 +1,7 @@
-<h1 align="center"> Soluções do Beecrowd </h1>
+#Soluções do Beecrowd - Fiz esse repositório para publicar as soluções do Beecrowd
 
-<p align="justify">Fiz esse repositório para publicar as soluções do Beecrowd
-<br>
-</p>
+##Lista de métodos úteis para as soluções:
 
-<p align="justify">
-<h2>Lista de métodos úteis para as soluções: </h2>
-<br>
-<h3>
 <a href="https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html">
 16 Métodos de array JavaScript que todo bom Desenvolvedor Web deve saber</a>
                                                  
