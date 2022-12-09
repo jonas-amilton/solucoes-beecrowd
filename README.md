@@ -4,10 +4,10 @@
 
 
 ### 16 Métodos de array JavaScript que todo bom Desenvolvedor Web deve saber
-### "https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html"
+### https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html
 
 ### Como manipular arrays em JavaScript
-### "https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/"
+### https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/
 
 <br>
 
