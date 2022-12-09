@@ -7,8 +7,6 @@
 <br>
 <a href="https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html">Link 1</a>
 
-<br>
-
 ###Como manipular arrays em JavaScript
 <br>
 <a href="https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/">Link 2</a>
