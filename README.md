@@ -2,12 +2,16 @@
 
 ##Lista de métodos úteis para as soluções:
 
-<a href="https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html">
-16 Métodos de array JavaScript que todo bom Desenvolvedor Web deve saber</a>
 
-<a href="https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/">Como manipular arrays em JavaScript</a>
-</h3><br>
+###16 Métodos de array JavaScript que todo bom Desenvolvedor Web deve saber
+<a href="https://terminalroot.com.br/2021/09/16-metodos-de-array-javascript-que-todo-bom-desenvolvedor-web-deve-saber.html"></a>
 
+<br>
+
+###Como manipular arrays em JavaScript
+<a href="https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/"></a>
+
+<br>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
