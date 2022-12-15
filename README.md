@@ -10,6 +10,8 @@
 ### Como manipular arrays em JavaScript
 ### https://www.freecodecamp.org/portuguese/news/como-manipular-arrays-em-javascript/amp/
 
+### Metodo Reducer
+### https://medium.com/swlh/javascript-reduce-with-examples-570f1b51e854
 <br>
 
 <p align="center">
