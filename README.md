@@ -30,7 +30,7 @@ Ok, nosso input está pronto! Vamos testar? Entre no arquivo stdin e digite 10 e
 </p>
 
 <p align="center">
-  <img src="/assets/teste_stdin.png" width="350">
+  <img src="/assets/teste_stdin.png" width="800">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Vamos imprimir a variável valoresRecebidos para acompanhar o processo:
 </p>
 
 <p align="center">
-  <img src="/assets/codigo.png" width="350">
+  <img src="/assets/codigo.png" width="800">
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ console.log('X = ' + X)
 # Vamos testa-lo para ver se ta funcionando conforme o beecrowd deseja!
 
 <p align="center">
-  <img src="/assets/teste.png" width="350">
+  <img src="/assets/teste.png" width="600">
 </p>
 
 <p aligm="center">
