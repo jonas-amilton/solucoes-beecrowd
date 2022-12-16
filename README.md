@@ -121,7 +121,7 @@ var X = A + B
 console.log('X = ' + X)
 ```
 <p align="center">
-Parabéns!! Você conseguiu resolver o problema 1001 do beecrowd com JavaScript, a melhor linguagem da internet 😜.
+Parabéns!! Você conseguiu resolver o problema 1001 do beecrowd com JavaScript, a melhor linguagem da internet.😜😜😜 
 <br>
 "O TRABALHO DURO VENCE O DOM NATURAL." - Rock Lee
 </p>
