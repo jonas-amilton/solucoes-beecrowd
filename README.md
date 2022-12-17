@@ -1,8 +1,6 @@
 # BEECROWD - Guia de como enviar soluções com javascript
 ### Alguns exercicios aqui do repositorio tem mais de uma solução encontrada, sinta se a vontade para fazer um fork e contribuir
 
-# Como enviar respostas com JS
-
 <p align="center">
 Primeiramente, crie um arquivo chamado 'stdin' em sua pasta. Iremos usar esse arquivo para ler os valores do nosso problema!
 </p>
