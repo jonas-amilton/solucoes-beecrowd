@@ -1,0 +1,24 @@
+// var input = require("fs").readFileSync("/dev/stdin", "utf8");
+// var lines = input.split("\n");
+
+// var A = parseFloat(lines.shift());
+// var B = parseFloat(lines.shift());
+
+// var media = (3.5 * A + 7.5 * B) / 11;
+
+// console.log("MEDIA = " + media.toFixed(5));
+
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+var A = parseFloat(lines.shift());
+var B = parseFloat(lines.shift());
+
+
+calcMedia(A, B);
+
+function calcMedia(){
+    let media = (3.5 * A + 7.5 * B) / 11;
+    console.log(`MEDIA = ${media.toFixed(5)}`);
+
+}
