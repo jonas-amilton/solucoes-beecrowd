@@ -1,13 +1,33 @@
-# Instruções
+# Instruções para rodar exercícios do Beecrowd
 
-Passos para resolver exercicios
+## 1. Coloque as entradas no arquivo `stdin`
 
-##
+Crie um arquivo chamado `stdin` na raiz do projeto com os dados de entrada do exercício, exatamente como o Beecrowd fornece.
 
-- index.js está configurado para rodar o node.js
+---
 
-- configuracao do arquivo que deve ser rodado esta na pasta .vscode/launch.json
+## 2. Escreva a solução em uma das linguagens abaixo
 
-- basta dar f5 e aguardar a saida do resultado no terminal
+- `index.js` para JavaScript (Node.js)
+- `index.php` para PHP
+- `Main.java` para Java (classe principal deve se chamar `Main`)
 
-- as entradas devem ser colocadas no arquivo stdin
+---
+
+## 3. Execute no terminal com redirecionamento do `stdin`
+
+### JavaScript:
+```
+node index.js < stdin
+```
+
+### PHP:
+```
+php index.php < stdin
+```
+
+### Java:
+```
+javac Main.java
+java Main < stdin
+```
