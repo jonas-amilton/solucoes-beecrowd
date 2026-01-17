@@ -31,3 +31,13 @@ php index.php < stdin
 javac Main.java
 java Main < stdin
 ```
+
+### Funções úteis para SQL
+```
+AVG() - média
+SUM() - soma
+COUNT() - contagem
+MAX() - máximo
+MIN() - mínimo
+ROUND() - arredondamento
+``
